@@ -11,6 +11,8 @@ This repository contains all necessary files for the **NV-MAX7219-LargeSeg** mod
 - ⚡ `Schematic_Diagram.png` – Complete schematic for the circuit  
 - 💾 `Gerber_Files.zip` – Ready-to-manufacture Gerber files  
 - 📁 `Design.json` – EasyEDA design file (importable for modifications)
+- 🖊️ `README.md` – This documentation 
+- 🧾 `LICENSE` – License information (CC BY-NC-SA 4.0) 
 
 ## 🔍 Description
 
@@ -25,7 +27,14 @@ Originally developed as an extension for the [NV-SmartEnv-Controller](https://gi
 - Microcontroller compatible (Arduino, Raspberry Pi, etc.)  
 - Modular and compact PCB layout  
 - Optimized for low power and clean display
+  
+## 📷 Previews
 
+| PCB Top View | PCB Layout | Schematic Diagram |
+|--------------|------------|-------------------|
+| ![Top View](Top_View.svg) | ![Layout](PCB_Layout.png) | ![Schematic](Schematic_Diagram.png) |
+
+---
 ## 💼 Freelance Customization
 
 If you're interested in a **custom version** of this board (size, segment count, display type, etc.), feel free to reach out.  
