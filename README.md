@@ -42,7 +42,12 @@ This circuit can be easily tailored to other applications.
 
 ## 🧾 License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).  
-You are free to use, share, and adapt the material as long as proper credit is given.
+This project is licensed under the  
+**[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
+
+- ✅ Free for personal and educational use
+- ❌ Commercial use **not allowed** without permission
+- 🔄 Modifications must be shared under the same license
+- ✏️ Credit must be given to the original creator
 
 ---
